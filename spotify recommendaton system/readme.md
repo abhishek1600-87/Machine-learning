@@ -1,4 +1,4 @@
-                                              ` **Spotify Recommendation System using Machine Learning**
+ **Spotify Recommendation System using Machine Learning**
 **Overview**
 
 This project focuses on building a Spotify Song Recommendation System using Machine Learning techniques. The system suggests songs that are similar to a given track based on their audio features such as danceability, energy, tempo, and valence.
